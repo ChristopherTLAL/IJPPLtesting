@@ -2,67 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://ijppl.com</loc>
-	<lastmod>2022-03-24</lastmod>
+	<lastmod>2022-03-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>https://ijppl.com/img/p2.png</image:loc>
-	<image:title>TimeToDisco(8)_4</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://ijppl.com/img/220324_1_wm.png</image:loc>
-	<image:title>slide 1</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://ijppl.com/img/220324_2_wm.png</image:loc>
-	<image:title>slide 2</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://ijppl.com/img/20220324_3_wm.png</image:loc>
-	<image:title>slide 3</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://ijppl.com/img/20220324_4_wm-1.png</image:loc>
-	<image:title>20220324_4_wm</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://ijppl.com/img/20220323_2_wm.png</image:loc>
-	<image:title>20220323_2_wm</image:title>
+	<image:title>1</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://ijppl.com/img/20220323_3_wm.png</image:loc>
 	<image:title>20220323_3_wm</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/p3.png</image:loc>
+	<image:loc>https://ijppl.com/img/p3_reduced@2x.png</image:loc>
 	<image:title>p3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/printer%20of%20happiness_2.png</image:loc>
+	<image:loc>https://ijppl.com/img/printer%20of%20happiness_2_reduced@2x.png</image:loc>
 	<image:title>printer of happiness_2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/220323_1_wm_1x1.png</image:loc>
+	<image:loc>https://ijppl.com/img/220323_1_wm_1x1@2x.png</image:loc>
 	<image:title>220323_1_wm_1x1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/Pic%287%29_0_1x1.png</image:loc>
+	<image:loc>https://ijppl.com/img/Pic%287%29_0_1x1@2x.png</image:loc>
 	<image:title>Pic(7)_0_1x1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/Pic%288%29_1_1x1.png</image:loc>
+	<image:loc>https://ijppl.com/img/Pic%288%29_1_1x1@2x.png</image:loc>
 	<image:title>Pic(8)_1_1x1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/Pic%286%29_0_1x1.png</image:loc>
+	<image:loc>https://ijppl.com/img/Pic%286%29_0_1x1@2x.png</image:loc>
 	<image:title>Pic(6)_0_1x1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/Pic%285%29_0_1x1.png</image:loc>
+	<image:loc>https://ijppl.com/img/Pic%285%29_0_1x1@2x.png</image:loc>
 	<image:title>Pic(5)_0_1x1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/WechatIMG752_1x1.jpeg</image:loc>
+	<image:loc>https://ijppl.com/img/WechatIMG752_1x1@2x.jpeg</image:loc>
 	<image:title>WechatIMG752_1x1.jpeg</image:title>
 	</image:image>
 	<image:image>
@@ -76,7 +56,7 @@
 </url>
 <url>
 	<loc>https://ijppl.com/g1.html</loc>
-	<lastmod>2022-03-24</lastmod>
+	<lastmod>2022-03-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -102,7 +82,7 @@
 </url>
 <url>
 	<loc>https://ijppl.com/about.html</loc>
-	<lastmod>2022-03-24</lastmod>
+	<lastmod>2022-03-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -120,7 +100,7 @@
 </url>
 <url>
 	<loc>https://ijppl.com/g2.html</loc>
-	<lastmod>2022-03-24</lastmod>
+	<lastmod>2022-03-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -162,7 +142,7 @@
 </url>
 <url>
 	<loc>https://ijppl.com/g3.html</loc>
-	<lastmod>2022-03-24</lastmod>
+	<lastmod>2022-03-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -178,8 +158,28 @@
 	<image:title>slide 2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://ijppl.com/img/220323_2_wm.png</image:loc>
-	<image:title>placeholder image</image:title>
+	<image:loc>https://ijppl.com/img/220324_1_wm.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ijppl.com/img/220324_2_wm.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ijppl.com/img/20220324_3_wm.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ijppl.com/img/20220324_4_wm-1.png</image:loc>
+	<image:title>20220324_4_wm</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ijppl.com/img/20220323_2_wm.png</image:loc>
+	<image:title>20220323_2_wm</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ijppl.com/img/20220323_3_wm.png</image:loc>
+	<image:title>20220323_3_wm</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://ijppl.com/img/</image:loc>
